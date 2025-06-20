@@ -1,5 +1,4 @@
 from openpyxl import load_workbook
-
 wb = load_workbook('sagatave_eksamenam.xlsx')
 ws = wb['Lapa_0']
 
